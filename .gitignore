@@ -1,17 +1,12 @@
-# Entorno virtual de Python
+# Códigos para activar el entorno virtual.
 venv/
 env/
 
-# Archivos de caché
+# Código de archivos cache.
 __pycache__/
 *.pyc
 *.pyo
 
-# Configuraciones y credenciales
+#  Códigos de configuraciones y credenciales que no son tan necesarias
 .aws/
 .vscode/
-
-# Archivos generados locales
-*.csv
-*.json
-*.sql
